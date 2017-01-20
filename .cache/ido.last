@@ -1,0 +1,38 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/daipeng/hr-conf/" . "prelude/")
+ ("/Users/daipeng/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/daipeng/hr-conf/prelude/"
+ "/Users/daipeng/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ 
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/daipeng/hr-conf/prelude/" (22655 6479 0 0) "vendor/" "var/" "utils/" "themes/" "savefile/" "sample/" "README.md" "projectile-bookmarks.eld" "prelude-modules.el" "personal/" "modules/" "init.el" "eshell/" "elpa/" "core/" "CONTRIBUTING.md" "auto-save-list/" ".projectile" ".gitignore" ".git/" ".cache/" "../" "./")
+
+ ("/Users/daipeng/hr-conf/" (22653 56490 0 0) "spacemacs.d/" "purcell.emacs/" "prelude/" "note/" "hr-linux-conf/" "hr-gvim-conf/" "hr-emacs-conf/" ".DS_Store" "../" "./")
+
+ ("/Users/daipeng/" (22655 6472 0 0) "workspaces/" "Public/" "projects/" "Pictures/" "Music/" "Movies/" "Mails/" "logs/" "Library/" "hr-conf/" "frey_dump.sql" "dump230.sql" "Downloads/" "Documents/" "Desktop/" "Applications/" "app/" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-hackrole的MacBook Pro-5.2" ".zcompdump-hackrole的MacBook Pro-5.0.8" ".wget-hsts" ".vscode/" ".virtualenvs/" ".vimrc" ".viminfo" ".vim/" ".v8flags.5.4.500.44.daipeng.json" ".Trash/" ".tmux.conf" ".subversion/" ".ssh/" ".spacemacs~" ".spacemacs" ".ShadowsocksX-NG/" ".ShadowsocksX/" ".ropeproject/" ".rediscli_history" ".pylint.d/" ".pip/" ".oracle_jre_usage/" ".oh-my-zsh/" ".offlineimaprc" ".offlineimap/" ".npm/" ".nodenv/" ".node-gyp/" ".mysql_history" ".mix/" ".local/" ".lesshst" ".jupyter/" ".ipython/" ".httpie/" ".hgignore_global" ".hex/" ".hammerspoon/" ".gitignore_global" ".gitconfig" ".gem/" ".erc/" ".emacs.d/" ".electron/" ".DS_Store" ".config/" ".CFUserTextEncoding" ".cache/" ".bash_sessions/" ".bash_history" ".alias" "../" "./")
+
+ ("/Users/daipeng/.emacs.d/" (22653 54169 0 0) "tests/" "spacemacs.mk" "snippets/" "recentf" "README.md" "private/" "news/" "layers/" "init.el" "eshell/" "elpa/" "doc/" "core/" "CONTRIBUTING.org" "COMMUNITY.org" "CHANGELOG.org" "assets/" ".travis.yml" ".travis-build.sh" ".projectile" ".gitignore" ".github/" ".git/" ".cache/" "../" "./")
+
+ ("/Users/daipeng/projects/TMS/webapp/" (22653 52765 0 0) "update_data.sh" "tms/" "tasks.py" "supervisord.conf" "static/" "pytest.ini" "manage.py" "log/" "locale/" "init_data.sh" "geckodriver.log" "front/" "fabfile.pyc" "fabfile.py" "data_migrate.sh" "data_migrate.py" "container_files/" "container/" "conftest.py" "conf/" "clean.sh" "changelog.txt" "account/" "__pycache__/" ".cache/" ".#tasks.py" "../" "./")
+
+ ("/Users/daipeng/hr-conf/note/" (22606 5888 0 0) "themes/" "requirements.txt" "README.md" "publishconf.py" "plugins/" "pelicanconf.py" "Makefile" "fabfile.py" "develop_server.sh" "content/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/daipeng/hr-conf/note/content/" (22653 37940 0 0) "处理程序金钱浮点数精度问题.rst" "write_rst_table_in_vim_with_riv.rst" "work_mode感想.rst" "work/" "why_not_say_I_cannot.rst" "why_mongodb_ob_1NF.rst" "vimscript_variable.rst" "vim_use_virtualenv_plugin.rst" "vim_use_nerdcomment_with_python.rst" "vim_plugin_synatics_config.rst" "vim_keyboard_bad_for_use.rst" "vim_config_syntastic.rst" "vim/" "use_vim_for_nodejs.rst" "use_supervisord_for_linux_auto_start_process.rst" "use_pdb_with_pytest.rst" "use_mitmproxy_for_scrapy.rst" "use_itertools_group_mongodb.rst" "use_i3_wm.rst" "tools_usage_bigsec.rst" "tobe_good_talker.rst" "svn_or_git.rst" "static/" "stackoverfollow_get_out_ban.rst" "sqlalchemy/" "sphinx_and_markdown/" "scrapy/" "ruby_koans_flow_control.rst" "ruby_koans_class.rst" "ruby_koans_built_type.rst" "ruby_install_from_source.rst" "ruby_enable_auto_completion.rst" "ruby/" "redis_sentinel.rst" "redis_replication.rst" "redis_persistence.rst" "redis_partition.rst" "redis_data_type_intro.rst" "redis_cluster_tutorial.rst" "redis_admin_hint.rst" "redis/" "read_the_human_and_month_mistry.rst" "react_started.rst" "react_native_use_image.rst" "python_with_exit_value.rst" "python_rabbitmq_and_rika.rst" "python_data_analyze_twitter.rst" "python_code_style.rst" "python/" "pydata-group-note.rst" "pelican_tips.rst" "numpy_unjustify_array_note.rst" "note_about_django_generic_view.rst" "note/" "not_drop_history_while_reflection.rst" "nodejs_get_started.rst" "nodejs/" "musca_note.rst" "mongoengine_questions.rst" "mongodb_install_on_linux.rst" "mongodb_indexes_pretty.rst" "mongodb_about_geo_search.rst" "mongodb/" "mnesia_user_guide.rst" "make/" "lua/" "linux_write_desktop_for_application.rst" "linux_rsync_usage.rst" "linux_nc_usage.rst" "linux_iptable_config.rst" "life_beatiful_word.rst" "libs_to_mock_requests.rst" "learn_python_socket.rst" "ipython_usage_tips.rst" "html+rest.rst" "hr-blog/" "howto_read_source.rst" "how_to_write_good_article.rst" "how_to_set_vim_options.rst" "how_to_make_note.rst" "how_to_get_obj_or_404.rst" "how_to_do_right_thing.rst" "golang_gvm_or_go1.5_compile_error.rst" "golang_get_start.rst" "git小记.rst" "GAE_wiki.rst" "GAE_datastore.rst" "GAE_app_yaml_conf.rst" "from_low_to_high_in_django_project.rst" "first_talk_maintains.rst" "final_answer_for_why_vim.rst" "expand_tools_to_your_team.rst" "emacs/" "elisp_variable.rst" "elisp_keymap.rst" "elisp_intro.rst" "elisp_buffer.rst" "ejabberd_server_wiki.rst" "docker_get_started.rst" "difference_between_python2_vs_python3.rst" "die_warning_about_soft_development.rst" "css_float_and_clear.rst" "config_supervisor.rst" "chrome_extension_develop_tips.rst" "chrome_extension_debug.rst" "chrome_extension_about_manifest.rst" "centos_usage_common_issues.rst" "big_things_about_software.rst" "backup_your_linux.rst" "app_develop_something_about_version.rst" "android_get_start_with_vim.rst" "android_develop_start.rst" "android_apk_install_and_sign.rst" "about_team_working.rst" "about_react_tools.rst" "about_computer.rst" "2017_plan.rst" ".#2017_plan.rst" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

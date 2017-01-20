@@ -39,6 +39,11 @@
 ;; You may delete these explanatory comments.
 ;(package-initialize)
 
+
+;(setq url-proxy-services '(("no_proxy" . "^\\(localhost\\|127.0.0.1\\)")
+;                           ("http" . "http://127.0.0.1:8090")
+;                           ("https" . "http://127.0.0.1:8090")))
+
 (defvar current-user
   (getenv
    (if (equal system-type 'windows-nt) "USERNAME" "USER")))
@@ -138,5 +143,8 @@ by Prelude.")
 (prelude-eval-after-init
  ;; greet the use with some useful tip
  (run-at-time 5 nil 'prelude-tip-of-the-day))
+
+;; my post config here
+(color-theme-robin-hood)
 
 ;;; init.el ends here
