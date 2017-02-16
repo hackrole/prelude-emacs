@@ -51,7 +51,7 @@
 (global-set-key (kbd "C-\\ j") 'join-line)
 
 ;; font size, emacs 字体大小快捷键
-(global-set-key (kbd "C-c C-=") 'text-scale-increase) 
+(global-set-key (kbd "C-c C-=") 'text-scale-increase)
 (global-set-key (kbd "C-c C--") 'text-scale-decrease)
 
 ;; easy key to split window.
@@ -82,6 +82,10 @@
 (global-set-key "\C-cl" 'org-store-link)
 (global-set-key "\C-ca" 'org-agenda)
 (global-set-key "\C-cb" 'org-iswitchb)
+
+;; heml key config
+(global-set-key (kbd "C-q b") 'helm-mini)
+(global-set-key (kbd "C-q C-f") 'helm-find-files)
 
 ;; provide
 (provide 'hr-keys-conf)

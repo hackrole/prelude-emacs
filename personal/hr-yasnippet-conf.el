@@ -25,6 +25,10 @@
 ;;             (set (make-local-variable 'company-backends)
 ;;                                       '((company-anaconda company-dabbrev-code 'company-yasnippet)))))
 
+;; options
+(setq yas-indent-line "fixed")
+(setq mode-require-final-newline nil)
+
 ;; global keys for yas use(desc table/new snippet)
 (define-prefix-command 'yas-global-map)
 (global-set-key (kbd "C-\\ y") 'yas-global-map)

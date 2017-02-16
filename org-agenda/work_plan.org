@@ -1,0 +1,5 @@
+* TODO lisp in box
+* TODO slime/common-lisp in mobile
+** TODO slime video
+http://common-lisp.net/project/movies/movies/slime.mov
+* TODO EWW

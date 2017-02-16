@@ -1,0 +1,20 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("org-agenda"
+ (filename . "~/.emacs.d/org-agenda/")
+ (front-context-string . "personal.org\n  -")
+ (rear-context-string . "  0  2 14 10:55 ")
+ (position . 241))
+("work_plan.org"
+ (filename . "~/.emacs.d/org-agenda/work_plan.org")
+ (front-context-string)
+ (rear-context-string . "on-lisp in mobil")
+ (position . 53))
+("tms_django"
+ (filename . "~/.virtualenvs/tms/lib/python2.7/site-packages/django/")
+ (front-context-string . "test\n  drwxr-xr-")
+ (rear-context-string . "544 11 24 15:52 ")
+ (position . 1355))
+)

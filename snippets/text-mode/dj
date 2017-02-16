@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: django po
+# key: dj
+# --
+msgid "$1"
+msgstr "$2"
+$0

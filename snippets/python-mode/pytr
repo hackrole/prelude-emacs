@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: pytest debug
+# key: pytr
+# --
+import pytest;pytest.set_trace()

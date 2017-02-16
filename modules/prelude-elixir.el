@@ -35,6 +35,12 @@
 
 (prelude-require-packages '(elixir-mode alchemist))
 
+;; enable complete for iex
+(defun custom-alchemist-hook ()
+  (set (make-local-variable 'company-backends) '(alchemist-company)))
+
+(add-hook 'alchemist-mode-hook 'custom-alchemist-hook)
+
 (provide 'prelude-elixir)
 
 ;;; prelude-elixir.el ends here
