@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: defimpl
+# key: defimpl
+# --
+defimpl $1, for: ${2:Any} do
+$0
+end

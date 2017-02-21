@@ -26,7 +26,7 @@
 ;;                                       '((company-anaconda company-dabbrev-code 'company-yasnippet)))))
 
 ;; options
-(setq yas-indent-line "fixed")
+;;(setq yas-indent-line "fixed")
 (setq mode-require-final-newline nil)
 
 ;; global keys for yas use(desc table/new snippet)

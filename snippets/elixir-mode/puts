@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: IO.puts
+# key: pt
+# --
+IO.puts $1
