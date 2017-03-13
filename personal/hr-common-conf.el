@@ -105,6 +105,10 @@
 (setq delete-old-versions t)
 (setq backup-directory-alist (quote (("." . "~/.emacs.d/temp/backups"))))
 
+;; setup clipboard
+(setq save-interprogram-paste-before-kill t)
+(setq yank-pop-change-selection nil)
+
 ;; start the ido-mode for switch-buffer and open-file
 (ido-mode 1)
 

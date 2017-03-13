@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tms.grant.test
+# key: tms.grant.test
+# --
+grant all privileges on auto_tests.* to 'tms'@'localhost';

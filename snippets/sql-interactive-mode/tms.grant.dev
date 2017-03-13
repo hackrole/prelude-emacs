@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tms.grant.dev
+# key: tms.grant.dev
+# --
+grant all privileges on tms_dev.* to 'tms'@'localhost';

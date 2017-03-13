@@ -5,4 +5,4 @@
                      '(("pytr" "import pytest;pytest.set_trace()" "pytest debug" nil nil nil "/Users/daipeng/.emacs.d/snippets/python-mode/pytr" nil nil)))
 
 
-;;; Do not edit! File generated at Mon Feb 20 15:37:50 2017
+;;; Do not edit! File generated at Thu Mar  2 11:12:57 2017

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tms.re.test
+# key: tms.re.test
+# --
+drop database auto_tests; create database auto_tests; grant all privileges on auto_tests.* to 'tms'@'localhost';

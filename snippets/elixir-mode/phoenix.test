@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: phoenix.test
+# key: phtest
+# --
+test "$1" do
+$0
+end
