@@ -11,5 +11,7 @@ http://common-lisp.net/project/movies/movies/slime.mov
 4) python4本
 5) 小说4本
 6）经济学／摄影 4本
-* TODO vim elixir配置
-* TODO learn-phoenix淘宝
+* DONE vim elixir配置
+  CLOSED: [2017-03-14 Tue 13:58]
+* DONE learn-phoenix淘宝
+  CLOSED: [2017-03-14 Tue 13:58]
