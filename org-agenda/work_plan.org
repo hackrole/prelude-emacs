@@ -1,17 +1,18 @@
-* TODO lisp in box
-* TODO slime/common-lisp in mobile
 ** TODO slime video
 http://common-lisp.net/project/movies/movies/slime.mov
 * TODO EWW
-* DONE 留书
-  CLOSED: [2017-03-03 Fri 09:57]
-1) 编译原理三本
-2) nodejs一本
-3) elixir一本
-4) python4本
-5) 小说4本
-6）经济学／摄影 4本
-* DONE vim elixir配置
-  CLOSED: [2017-03-14 Tue 13:58]
-* DONE learn-phoenix淘宝
-  CLOSED: [2017-03-14 Tue 13:58]
+* TODO ansible galagy
+
+* TODO docker register
+
+* TODO one nginx log
+* TODO ansible
+* TODO jenkins
+** TODO nexus 203 frontend commit_id
+** TODO nexus git reback
+
+
+* TODO vim agendas
+* TODO sbd/jdb
+* TODO vim/emacs ensime
+* TODO vim/tmux/shell

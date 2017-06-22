@@ -1,0 +1,32 @@
+* TODO home plan
+** TODO python
+*** TODO turn to 3.6
+*** TODO data analyzier
+*** TODO marchine learn
+*** TODO ansible/devops
+*** TODO micro-services frameworks
+
+** TODO golang
+*** TODO golang json/web-framework/async/cli-command/utils/tools/unittest/debug-tools/igo
+
+** TODO nodejs
+*** TODO reactjs/angular/vuejs/react-native/desktop
+*** TODO typescript/es6
+*** TODO tools/npm/build/invoke-cli
+
+** TODO compiler
+
+** TODO suanfadaolun
+
+** TODO vim
+*** TODO vimscript
+*** TODO vimscript python
+
+** TODO emacs
+*** lisp/emacs-usage
+
+** TODO haskell
+
+** TODO rust
+
+** TODO erlang/elixir

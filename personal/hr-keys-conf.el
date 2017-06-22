@@ -78,6 +78,10 @@
 ;;(global-set-key (kbd "\\ h") 'windmove-left)
 ;;(global-set-key (kbd "\\ l") 'windmove-right)
 
+;; register for quick open-file
+(set-register ?p '(file . "~/.emacs.d/org-agenda/personal.org"))
+(set-register ?w '(file . "~/.emacs.d/org-agenda/work_plan.org"))
+
 ;; org conf keys
 (global-set-key "\C-cl" 'org-store-link)
 (global-set-key "\C-ca" 'org-agenda)

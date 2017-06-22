@@ -7,6 +7,6 @@
 ;; (setq projectile-switch-project-action
 ;;       '(lambda ()
 ;;          (venv-projectile-auto-workon)
-;;          (setq flycheck-pylintrc "./pylintrc")))
+;          (setq flycheck-pylintrc "./pylintrc")))
 
 (provide 'hr-projectile-conf)
