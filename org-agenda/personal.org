@@ -8,7 +8,10 @@
 
 ** TODO golang
 *** TODO golang json/web-framework/async/cli-command/utils/tools/unittest/debug-tools/igo
-
+*** TODO strcut descript doc
+*** TODO ORM
+*** TODO golang c extends
+*** TODO real-world example
 ** TODO nodejs
 *** TODO reactjs/angular/vuejs/react-native/desktop
 *** TODO typescript/es6
@@ -22,11 +25,14 @@
 *** TODO vimscript
 *** TODO vimscript python
 
+*** TODO learn-vimscript hard way
+*** TODO vim-doc script and plugins
 ** TODO emacs
 *** lisp/emacs-usage
 
 ** TODO haskell
-
+*** TODO buy real-world haskell
 ** TODO rust
 
 ** TODO erlang/elixir
+** TODO

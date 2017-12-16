@@ -55,7 +55,7 @@
 (global-set-key (kbd "C-c C--") 'text-scale-decrease)
 
 ;; easy key to split window.
-(global-set-key (kbd "M-3") 'delete-other-windows)
+(global-set-key (kbd "M-3") 'deete-other-windows)
 (global-set-key (kbd "M-4") 'split-window-vertically)
 (global-set-key (kbd "C-4") 'split-window-horizontally)
 (global-set-key (kbd "C-3") 'delete-window)
@@ -82,14 +82,29 @@
 (set-register ?p '(file . "~/.emacs.d/org-agenda/personal.org"))
 (set-register ?w '(file . "~/.emacs.d/org-agenda/work_plan.org"))
 
+;; slime keys
+(global-set-key (kbd "\C-c <f6>") 'slime)
+
 ;; org conf keys
 (global-set-key "\C-cl" 'org-store-link)
 (global-set-key "\C-ca" 'org-agenda)
 (global-set-key "\C-cb" 'org-iswitchb)
 
 ;; heml key config
-(global-set-key (kbd "C-q b") 'helm-mini)
-(global-set-key (kbd "C-q C-f") 'helm-find-files)
+(require 'helm)
+(require 'helm-config)
+(require 'helm-projectile)
+
+(if (featurep 'helm)
+    (progn
+      (global-set-key (kbd "M-x") 'helm-M-x)
+      (global-set-key (kbd "C-q b") 'helm-mini)
+      (global-set-key (kbd "C-q C-f") 'helm-find-files)
+      (global-set-key (kbd "C-q r l") 'helm-bookmarks)))
+
+(if (featurep 'helm-projectile)
+    (progn
+      (global-set-key (kbd "C-q s") 'helm-projectile-switch-project)))
 
 ;; provide
 (provide 'hr-keys-conf)

@@ -2,7 +2,22 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(("personal.org"
+(("learn-lisp"
+ (filename . "~/projects/learn-lisp/")
+ (front-context-string . "hello.lisp\n  -rw")
+ (rear-context-string . "43 11月 16 15:50 ")
+ (position . 845))
+("hr-keys-conf.el"
+ (filename . "~/.emacs.d/personal/hr-keys-conf.el")
+ (front-context-string . "(global-set-key ")
+ (rear-context-string . "\n\n;; slime keys\n")
+ (position . 2785))
+("personal"
+ (filename . "~/.emacs.d/personal/")
+ (front-context-string . "hr-slime-conf.el")
+ (rear-context-string . "19 11月 16 15:45 ")
+ (position . 1135))
+("personal.org"
  (filename . "~/.emacs.d/org-agenda/personal.org")
  (front-context-string)
  (rear-context-string)

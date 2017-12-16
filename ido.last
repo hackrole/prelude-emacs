@@ -1,0 +1,57 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/hackrole/projects/learn-lisp/" . "practical-common-lisp/")
+ ("/home/hackrole/projects/" . "learn-lisp/")
+ ("/home/hackrole/.emacs.d/" . "personal/")
+ ("/home/hackrole/hr-conf/" . "prelude-emacs/")
+ ("/home/hackrole/" . "hr-conf/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/hackrole/projects/learn-lisp/"
+ "/home/hackrole/.emacs.d/personal/"
+ "/home/hackrole/"
+ "/home/hackrole/projects/learn-lisp/practical-common-lisp/"
+ "/home/hackrole/hr-conf/prelude-emacs/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "custom.el"
+ "hr-scala-conf.el"
+ ".zshrc"
+ "hello.lisp"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/hackrole/projects/learn-lisp/" (23054 41787 222199 727000) "./" "elpa/" "../" "practical-common-lisp/" "README.md" "using-emacs/" ".git/" "scip/")
+
+ ("/home/hackrole/hr-conf/prelude-emacs/personal/" (23054 40994 280061 867000) "./" "hr-sql-conf.el" "hr-keys-conf.el" "preload/" ".dir-locals.el" "hr-yasnippet-conf.el" "../" "hr-common-conf.el" "custom.el" "hr-scala-conf.el" "hr-python-conf.el" "hr-projectile-conf.el" "hr-eshell-conf.el" "hr-org-conf.el" ".gitkeep" "hr-slime-conf.el" "hr-color-theme-conf.el" "hr-scala-sbt.el" "hr-eww-conf.el")
+
+ ("/home/hackrole/" (23053 22325 259059 293000) "hr-conf/" ".wget-hsts" ".irssi/" ".npm/" "Desktop/" "Downloads/" "./" "VMS/" ".xinputrc" ".mysql_history" ".thunderbird/" "VirtualBox VMs/" ".mozilla/" ".dmrc" "projects/" ".ipython/" ".ICEauthority" "floobits/" "Android/" ".babel.json" ".hex/" ".gotime.log" ".gnome/" ".tool-versions" ".zsh-update" ".xsession-errors.old" ".presage/" ".cache/" ".SpaceVim.d/" "AndroidStudioProjects/" ".ssh/" ".i3/" "Templates/" ".android/" ".m2/" ".pki/" ".gnupg/" ".tmux.conf.bak" ".glide/" "workspaces/" ".aptitude/" "Documents/" ".profile" ".alias" "../" ".sbclrc" ".gotime.db" "examples.desktop" "Videos/" ".dbus/" ".oracle_jre_usage/" ".Xauthority" ".pip/" ".node-gyp/" ".psql_history" ".gitconfig" ".bashrc.bak" "Music/" ".gconf/" ".offlineimaprc" ".xcreensaver" ".msmtprc" ".gksu.lock" ".NERDTreeBookmarks" ".slime-history.eld" ".asdf/" ".mplayer/" ".emacs.d/" ".vmware/" ".AndroidStudio3.0/" ".xmodmap" ".yolk/" ".bashrc" ".mu/" ".zcompdump" "Public/" ".slime/" ".bash_history" ".config/" "Pictures/" ".data/" ".cargo/" ".yarnrc" ".cscope.vim/" ".java/" ".gnome2_private/" ".scala_history" ".tags_cache/" ".xsession-errors" ".virtualenvs/" ".vimrc" ".autojump/" ".z" ".zsh_history" ".Rhistory" ".shutter/" ".yarn/" ".gradle/" ".httpie/" ".vim/" ".zshrc" ".profile.bak" ".ghc/" "quicklisp/" ".local/" ".viminfo" ".expo/" ".jupyter/" ".lein/" ".SpaceVim/" ".gitignore" ".sudo_as_admin_successful" ".nodenv/" ".hsandbox/" ".zcompdump-hackrole-5.1.1" "Maildir/" ".lesshst" ".npmrc" ".electron/" ".vagrant.d/" ".fehbg" "app/" ".offlineimap/" ".oh-my-zsh/" ".gnome2/" ".tmux.conf" ".bash_logout" "vmware/")
+
+ ("/home/hackrole/.emacs.d/personal/" (23053 20729 849720 738000) "./" "hr-sql-conf.el" "hr-keys-conf.el" "preload/" ".dir-locals.el" "hr-yasnippet-conf.el" "../" "hr-common-conf.el" "custom.el" "hr-scala-conf.el" "hr-python-conf.el" "hr-projectile-conf.el" "hr-eshell-conf.el" "hr-org-conf.el" ".gitkeep" "hr-slime-conf.el" "hr-color-theme-conf.el" "hr-scala-sbt.el" "hr-eww-conf.el")
+
+ ("/home/hackrole/.emacs.d/" (23053 20729 957720 442000) "./" "org-agenda/" "snippets/" "auto-save-list/" "themes/" "elpa/" "projectile-bookmarks.eld" "init.el" ".cache/" "savefile/" "modules/" ".session" "../" "eshell/" "ido.last" "tags" "README.md" "temp/" "request/" ".projectile" "personal/" "anaconda-mode/" "sample/" "core/" ".git/" ".gitignore" "vendor/" "CONTRIBUTING.md" "bookmarks" "utils/" "var/")
+
+ ("/home/" (22285 22303 0 0) "./" "lost+found/" "../" "hackrole/")
+
+ ("/home/hackrole/projects/learn-lisp/practical-common-lisp/" (23053 17360 779846 311000) "./" "quicklisp.lisp.asc" "hello.fasl" "../" "hello.lisp" "quicklisp.lisp")
+
+ ("/home/hackrole/.emacs.d/elpa/slime-20171106.1331/" (23053 16104 496429 955000) "dir" "start-swank.lisp" "nregex.lisp" "./" "slime.info" "sbcl-pprint-patch.lisp" "slime.el" "packages.lisp" "slime.elc" "../" "slime-autoloads.elc" "contrib/" "slime-tests.el" "metering.lisp" "lib/" "swank.asd" "slime-tests.elc" "xref.lisp" "swank/" "slime-pkg.el" "swank-loader.lisp" "slime-autoloads.el" "swank.lisp")
+
+ ("/home/hackrole/hr-conf/prelude-emacs/" (23053 16977 376440 432000) "./" "org-agenda/" "snippets/" "auto-save-list/" "themes/" "elpa/" "projectile-bookmarks.eld" "init.el" ".cache/" "savefile/" "modules/" ".session" "../" "eshell/" "ido.last" "README.md" "temp/" "request/" ".projectile" "personal/" "anaconda-mode/" "sample/" "core/" ".git/" ".gitignore" "vendor/" "CONTRIBUTING.md" "bookmarks" "utils/" "var/")
+
+ ("/home/hackrole/projects/" (23037 3538 504829 265000) "react_native/" "./" "learn_haskell/" "create_language/" "dotfiles/" "../" "esqlite/" "watchman/" "learn-elixir/" "learn-electron/" "PySocks/" "learn-lisp/" "learn-vimscript/" "pydata/" "machine-learn-in-action/" "learn-rust/" "erlzmq2/" "mygo/")
+
+ ("/home/hackrole/hr-conf/" (23009 36761 994998 260000) "./" "prelude-emacs/" "note/" "hr-emacs-conf/" "../" "hr-nvim-config/" "hr-gvim-conf/" "hr-linux-conf/")
+
+ ("/bin/" (22971 16347 710996 848000) "getfacl" "cpio" "zcmp" "setfont" "ntfsinfo" "mountpoint" "whiptail" "ntfs-3g.usermap" "run-parts" "zdiff" "bzgrep" "sh.distrib" "mktemp" "rbash" "rm" "login" "ntfs-3g.probe" "stty" "bunzip2" "rzsh" "ln" "zless" "ls" "nc.openbsd" "domainname" "tempfile" "lesskey" "more" "ping6" "dd" "red" "rnano" "ntfsmove" "sh" "ntfscat" "bzfgrep" "plymouth" "readlink" "netcat" "zforce" "fgconsole" "bzip2" "cat" "ss" "tailf" "ntfsfix" "ed" "udevadm" "chrome" "bzless" "egrep" "dnsdomainname" "kbd_mode" "bzcmp" "static-sh" "unicode_start" "ps" "systemd-notify" "ntfsls" "chown" "sed" "ypdomainname" "./" "systemd-tty-ask-password-agent" "ntfswipe" "fuser" "loadkeys" "journalctl" "uname" "ulockmgr_server" "date" "ntfscmp" "findmnt" "bzexe" "lessecho" "grep" "chgrp" "true" "echo" "hostname" "systemd-tmpfiles" "ping" "dir" "systemd" "dmesg" "bzegrep" "gunzip" "busybox" "mt" "lsmod" "bzmore" "rmdir" "chvt" "ntfsfallocate" "mkdir" "efibootmgr" "dash" "pidof" "ntfscluster" "chacl" "netstat" "systemd-ask-password" "touch" "which" "setupcon" "dumpkeys" "zgrep" "bzdiff" "open" "znew" "bzip2recover" "setfacl" "cp" "fusermount" "lessfile" "ntfs-3g.secaudit" "lsblk" "systemd-machine-id-setup" "pwd" "uncompress" "sync" "false" "less" "mknod" "zsh" "vmmouse_detect" "nano" "ip" "systemd-hwdb" "lowntfs-3g" "mt-gnu" "zegrep" "wdctl" "nc" "zsh5" "zfgrep" "kill" "bash" "../" "mount" "bzcat" "gzip" "fgrep" "systemctl" "su" "zmore" "systemd-escape" "mv" "gzexe" "vdir" "tar" "sleep" "ntfstruncate" "lesspipe" "systemd-inhibit" "loginctl" "zcat" "umount" "hciconfig" "kmod" "networkctl" "df" "chmod" "openvt" "nisdomainname" "ntfs-3g")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

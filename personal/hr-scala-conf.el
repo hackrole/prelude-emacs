@@ -6,7 +6,7 @@
 
 ;; add exec path
 (setq exec-path (append exec-path '("/Users/daipeng/.jenv/shims")))
-(setenv "PATH" (shell-command-to-string "/bin/bash -c 'echo -n $PATH"))
+;;(setenv "PATH" (shell-command-to-string "/bin/bash -c 'echo -n $PATH"))
 
 (require 'ensime)
 (add-hook 'scala-mode-hook 'ensime-scala-mode-hook)

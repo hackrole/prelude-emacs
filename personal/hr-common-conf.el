@@ -115,5 +115,8 @@
 ;; debug error
 ;; (setq debug-on-error t)
 
+;; set default font size
+(set-face-attribute 'default nil :height 200)
+
 ;; provide
 (provide 'hr-common-conf)

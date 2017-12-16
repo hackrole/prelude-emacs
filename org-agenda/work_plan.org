@@ -1,18 +1,15 @@
-** TODO slime video
+* TODO slime video
 http://common-lisp.net/project/movies/movies/slime.mov
 * TODO EWW
 * TODO ansible galagy
 
 * TODO docker register
 
-* TODO one nginx log
 * TODO ansible
-* TODO jenkins
-** TODO nexus 203 frontend commit_id
-** TODO nexus git reback
-
 
 * TODO vim agendas
 * TODO sbd/jdb
-* TODO vim/emacs ensime
-* TODO vim/tmux/shell
+
+* TODO phonix/elixir
+* TODO react/react-native
+* TODO react-native time-schuleda
