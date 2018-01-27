@@ -100,6 +100,9 @@
       (global-set-key (kbd "M-x") 'helm-M-x)
       (global-set-key (kbd "C-q b") 'helm-mini)
       (global-set-key (kbd "C-q C-f") 'helm-find-files)
+      (define-prefix-command 'helm-map)
+      (global-set-key (kbd "C-\\ h") 'helm-map)
+      (define-key 'helm-map (kbd "b") 'helm-bookmarks)
       (global-set-key (kbd "C-q r l") 'helm-bookmarks)))
 
 (if (featurep 'helm-projectile)

@@ -35,4 +35,12 @@
 ** TODO rust
 
 ** TODO erlang/elixir
-** TODO
+* DONE simple server-dotfile project
+  CLOSED: [2018-01-11 Thu 22:31] DEADLINE: <2018-01-11 Thu>
+
+* DONE vim edit remote file
+  CLOSED: [2018-01-11 Thu 22:31] DEADLINE: <2018-01-11 Thu>
+
+* TODO redpacket
+1) fabfile tasks for start/down server. sync code
+2) docker-file

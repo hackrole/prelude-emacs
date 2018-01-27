@@ -109,7 +109,10 @@
 
 (global-set-key (kbd "C-c j") 'avy-goto-word-or-subword-1)
 (global-set-key (kbd "s-.") 'avy-goto-word-or-subword-1)
-(global-set-key (kbd "s-w") 'ace-window)
+
+;; ace-window plugins
+(setq aw-dispatch-always t)
+(global-set-key (kbd "C-0") 'ace-window)
 
 (provide 'prelude-global-keybindings)
 

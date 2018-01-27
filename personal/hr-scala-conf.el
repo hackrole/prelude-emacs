@@ -2,7 +2,7 @@
 (prelude-require-package 'ensime)
 
 (setq ensime-sbt-command "/Users/daipeng/.jenv/shims/sbt"
-      sbt:program-name "/Users/daipeng/.jenv/shims/sbt")
+      sbt:program-name "sbt")
 
 ;; add exec path
 (setq exec-path (append exec-path '("/Users/daipeng/.jenv/shims")))

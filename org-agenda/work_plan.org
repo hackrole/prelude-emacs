@@ -13,3 +13,73 @@ http://common-lisp.net/project/movies/movies/slime.mov
 * TODO phonix/elixir
 * TODO react/react-native
 * TODO react-native time-schuleda
+* TODO vim/emacs ensime
+* TODO vim/tmux/shell
+
+* TODO python ML
+
+* TODO compiler language
+
+* TODO learn spacevim
+
+* TODO learn emacs
+
+* DONE rust minigrep <2017-12-21 Thu>
+  CLOSED: [2017-12-22 Fri 09:18]
+
+* DONE finish rust read
+  CLOSED: [2017-12-25 Mon 09:40] DEADLINE: <2017-12-24 Sun>
+
+* TODO read everyday
+  - State "DONE"       from "TODO"       [2017-12-25 Mon 09:39]
+  :PROPERTIES:
+  :LAST_REPEAT: [2017-12-25 Mon 09:39]
+  :END:
+<2017-12-23 Sat +1d>
+
+* TODO gvim add vimfiler usage
+  DEADLINE: <2017-12-23 Sat>
+* DONE git sub-tree
+  CLOSED: [2017-12-23 Sat 22:02] DEADLINE: <2017-12-23 Sat>
+* TODO 数据结构和算法分析阅读
+  DEADLINE: <2018-01-06 Sat>
+** TODO 完成前七章
+   DEADLINE: <2017-12-30 Sat>
+* DONE vim font large/small
+  CLOSED: [2017-12-26 Tue 13:14] DEADLINE: <2017-12-25 Mon>
+* DONE golang data and althoens
+  CLOSED: [2017-12-27 Wed 23:49] DEADLINE: <2017-12-27 Wed>
+
+1) static method -- none
+2) interface{} cmp/order
+3) point operator
+4) stdlib
+
+* DONE nvim config
+  CLOSED: [2017-12-28 Thu 19:49] DEADLINE: <2018-01-06 Sat>
+
+** DONE 插件整理到readme.txt,之后逐步添加到nvim配置中
+   CLOSED: [2017-12-28 Thu 19:49]
+** DONE 添加初始化配置，一步步完善
+   CLOSED: [2017-12-28 Thu 19:49]
+
+* TODO golang tree datastruct
+  DEADLINE: <2017-12-29 Fri>
+* TODO win10 in the HY
+  DEADLINE: <2018-01-09 Tue>
+* DONE https config
+  CLOSED: [2018-01-21 Sun 17:42] DEADLINE: <2018-01-09 Tue>
+* DONE go-book read
+  CLOSED: [2018-01-21 Sun 17:42] DEADLINE: <2018-01-09 Tue>
+* TODO alfred 配置
+  DEADLINE: <2018-01-09 Tue>
+* TODO 51hongbao.com
+** DONE 统计代码
+   CLOSED: [2018-01-23 Tue 10:49]
+** DONE 自动部署脚本
+   CLOSED: [2018-01-23 Tue 10:49]
+** DONE http_load fab脚本.
+   CLOSED: [2018-01-26 Fri 08:32]
+
+** DONE liunux/nginx/mariadb配置优化
+   CLOSED: [2018-01-26 Fri 08:32]
